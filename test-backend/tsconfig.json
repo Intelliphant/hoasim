@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outDir": ".",
+		"target": "es6",
+		"removeComments": true,
+		"outFile": "test-backend.js",
+		"sourceMap": true,
+		"noEmitOnError": true
+	},
+	"include": [
+		"**/*.ts"
+	]
+}

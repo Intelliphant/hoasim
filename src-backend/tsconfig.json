@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outDir": "bin/",
+		"target": "es6",
+		"removeComments": true,
+		"declaration": true,
+		"outFile": "game.js",
+		"sourceMap": true
+	},
+	"include": [
+		"**/*.ts"
+	]
+}

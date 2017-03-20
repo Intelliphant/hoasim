@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"outDir": "bin/www-root",
+		"target": "es6",
+		"removeComments": true,
+		"outFile": "ui.js",
+		"sourceMap": true
+	},
+	"include": [
+		"**/*.ts"
+	]
+}
